@@ -7,6 +7,7 @@ dev-dist/
 /*.pdf
 /*.PDF
 /Old context - prd/
+/old-context-research-prd.md
 
 # Rust / Tauri
 src-tauri/target/
