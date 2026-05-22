@@ -80,10 +80,20 @@ FocusFlow doesn’t just time work – it guides recovery:
 
 ## 🎛️ How to use FocusFlow
 
+### Desktop
+
 1. Install the desktop app (Windows / macOS / Linux) – runs silently in the system tray.
 2. Choose **The Anchor** or **The Dive** based on how you feel right now.
 3. Use the in‑app controls to pause, resume, or skip a phase.
 4. Follow the subtle colour shifts and optional audio cues – no pop‑ups, no clutter.
+
+### Mobile / Tablet (PWA)
+
+- Install from your browser:  
+  **Android**: Chrome → “Add to Home Screen”  
+  **iOS**: Safari → “Share” → “Add to Home Screen”
+- Works offline after first load.
+- Same protocols, touch‑friendly interface.
 
 > The app automates everything: priming → work → micro‑rest → deep recovery. You just work.
 
