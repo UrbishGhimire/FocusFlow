@@ -1,0 +1,27 @@
+# Node
+node_modules/
+dist/
+dev-dist/
+
+# Research / context exports
+/*.pdf
+/*.PDF
+/Old context - prd/
+
+# Rust / Tauri
+src-tauri/target/
+
+# Environment
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

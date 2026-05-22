@@ -1,0 +1,11 @@
+{
+  "identifier": "main-capabilities",
+  "description": "Main window permissions for FocusFlow.",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "notification:default",
+    "notification:allow-request-permission",
+    "notification:allow-notify"
+  ]
+}
