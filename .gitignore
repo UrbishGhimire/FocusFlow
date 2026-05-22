@@ -12,6 +12,7 @@ dev-dist/
 # Root markdown files except README
 /*.md
 !/README.md
+/Progress..txt
 
 # Rust / Tauri
 src-tauri/target/
