@@ -8,6 +8,7 @@ dev-dist/
 /*.PDF
 /Old context - prd/
 /old-context-research-prd.md
+/old_context/
 
 # Root markdown files except README
 /*.md
