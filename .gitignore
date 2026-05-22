@@ -9,6 +9,10 @@ dev-dist/
 /Old context - prd/
 /old-context-research-prd.md
 
+# Root markdown files except README
+/*.md
+!/README.md
+
 # Rust / Tauri
 src-tauri/target/
 
