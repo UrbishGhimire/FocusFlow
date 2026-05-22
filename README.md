@@ -31,7 +31,7 @@ For high-focus work, memorization, or complex understanding.
 
 ## Based on research
 
-FocusFlow is based on a few recurring findings from the research notes in this repo:
+FocusFlow is based on a few recurring findings from the research summary:
 
 - Biological timing matters: circadian and ultradian rhythms affect when focused work feels easiest.
 - Short rest cycles can preserve attention better than pushing through long, flat work sessions.
